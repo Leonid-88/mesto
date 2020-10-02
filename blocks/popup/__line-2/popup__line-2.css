@@ -4,3 +4,9 @@
     border-bottom: 1px solid #000000;
     margin-bottom: 30px;
 }
+
+@media screen and (max-width: 650px) {
+    .popup__line-2 {
+    max-width: 238px;
+    }
+}
