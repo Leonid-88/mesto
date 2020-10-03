@@ -2,21 +2,21 @@
     src: url(../../vendor/fonts/Inter-Regular.woff2),
          url(../../vendor/fonts/Inter-Regular.woff);
     font-family: 'Inter';
-    font-weight: normal;
+    font-weight: 400;
 }
-
 
 @font-face {
     src: url(../../vendor/fonts/Inter-Bold.woff2),
          url(../../vendor/fonts/Inter-Bold.woff);
     font-family: 'Inter';
-    font-weight: bold;
+    font-weight: 900;
 }
 
+
 @font-face {
-    src: url(../../vendor/fonts/Inter-Black.woff2),
-         url(../../vendor/fonts/Inter-Black.woff);
+    src: url(../../vendor/fonts/Inter-Medium.woff2),
+         url(../../vendor/fonts/Inter-Medium.woff);
     font-family: 'Inter';
-    font-weight: 900;
+    font-weight: 500;
 }
 
