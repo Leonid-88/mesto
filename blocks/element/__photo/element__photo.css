@@ -1,0 +1,6 @@
+@media screen and (max-width: 635px) {
+    .element__photo {
+      max-width: 282px;
+      max-height: 282px;
+    }
+}
