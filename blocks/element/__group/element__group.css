@@ -1,6 +1,12 @@
 .element__group {
-    margin-right: 18px;
+    background-image:url(../../../images/hurt.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 21px;
     height: 18px;
+    border: 0;
+    background-color: transparent;
+    margin: 0 18px 0 0; 
+    padding: 0; 
     
 }
