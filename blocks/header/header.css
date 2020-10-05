@@ -2,17 +2,19 @@
 
 
 .header {
+    border-bottom: 1px solid rgb(84, 84, 84, .7);
     margin: 0 auto;
     max-width: 882px;
     max-height: 74px;
-    padding: 0;
-    border-bottom: 1px solid rgb(84, 84, 84, .7);
+    padding: 45px 0 40.6px 0;
+   
 
 }
 
 @media screen and (max-width: 400px) {
     .header {
         max-height: 84px;
+        padding: 0;
         
     }
 }
