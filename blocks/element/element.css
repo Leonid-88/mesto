@@ -29,7 +29,7 @@
     
 }
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 320px) {
     .element:nth-of-type(6n) {
     margin: 0;
     }
