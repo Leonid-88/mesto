@@ -4,7 +4,7 @@
     height: 45.7px;
     top: -37px;
     right: -37px;
-    background-image:url(../../../images/Close\ Iconn.svg);
+    background-image:url(../../../images/Close\ Icon.svg);
     background-repeat: no-repeat;
     background-size: cover;
     border: 0;
@@ -17,6 +17,7 @@
 .popup__close-icon:hover {
     opacity: 0.6;
     transition: 0.3s ease-in-out;
+    border: 0;
 }
 
 @media screen and (max-width: 635px) {
